@@ -8,7 +8,7 @@ Usage:
 
 ``watcher {filepath}``
 
-If you want add your interpreter you for yours file extensions you can edit ``src/config.py``:
+If you want add your interpreter, you can edit ``src/config.py``:
 
 ```py 
     # ADD NEW KEY AS EXTENSION FILE AND AS VALUE PASS THE LIST WITH PATHS TO INTERPRETER
